@@ -1,0 +1,48 @@
+banner:
+  enable: true
+  image: "images/sitebanner.jpg"
+  contents: "**Fan Community:** _Not affiliated with DustStudios or any company._"
+  button:
+    contents: "Discord"
+    url: "https://discord.gg/mfYDHQtSzD"
+items:
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: What if WW2 was WEIRD?
+      icon: fa-question
+      content: >
+        How weird?
+        Aliens weird!
+        Zombies weird!
+        Cultists summoning monsters weird!
+        
+        Stir it all into a pot and add a dash of futuristic weaponry.
+    - title: Pulp Sci-Fi Dieselpunk?
+      icon: fa-user-secret
+      content: >
+        It’s 1947, and four years after Hitler’s assassination by his own forces in 1943,
+        the War still rages on - powered by technology recovered from a crashed UFO
+        discovered in Antarctica. Alien VK tech allows for walking tanks, a
+        zombie-resurrection serum, uplifted battle-apes, lasers, phasers, and jetpacks.
+        The forces which secure the most VK will finally end the war, victorious and unstoppable.
+    - title: What is it?
+      icon: fa-arrow-down
+      content: >
+        A fast-paced, easy to learn (and teach) turn-based tactical miniatures game,
+        with incredibly detailed models of weapons and heroes, vehicles and terrain.
+        Each unit is accompanied by a stats card detailing range, movement, flexibility,
+        and impact on different classes of armoured opponent. Your talent as a commander
+        combines with the luck of the dice to determine victory for some – and a tactical retreat for others. 
+  - type: heading
+    heading: Extraordinary Vehicles, Two-Fisted Heroes!
+    contents: The War Continues...
+  - type: posts
+    #heading: Recent Posts
+    content_type: posts
+    max: 4
+  - type: cta
+    contents: Are you ready to continue your quest?
+    button:
+      contents: Insert Coin
+      url: "https://discord.gg/mfYDHQtSzD"

@@ -1,0 +1,36 @@
+baseURL = 'https://dust1947.net/'
+languageCode = 'en-us'
+title = 'Dust Players Committee'
+theme = 'arcana'
+copyright = "© The miniatures shown here were designed and created by Studio Dust Ltd. Dust 1947, Dust Studio Ltd, the Dust Studio logo and the Dusts 1947 logo are registered trademarks of Dust Studio Ltd. All rights reserved. All photographs, character illustrations and text are copyright 2016"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "Pulp Weird WW2."
+    show_post_dates = false
+
+
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
+
+
+    [params.footer]
+
+        [[params.footer.links]]
+            header = "Links to Stuff"
+        [[params.footer.links.links]]
+            title = "Players Council Card Repo"
+            url = "https://github.com/usmcgeek/dust47cardrepo"
+        [[params.footer.links.links]]
+            title = "BinoAI's Square Unit Card Creator"
+            url = "https://bin0al.github.io/DustResources/DustCustomCards/index.html"
+
+        [[params.footer.links]]
+            header = "More Links to Stuff"
+        [[params.footer.links.links]]
+            title = "AmmoDrop - European Vendor"
+            url = "https://ammodrop.eu/?lang=en"
