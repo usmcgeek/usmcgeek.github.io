@@ -35,3 +35,7 @@ copyright = "© The miniatures shown here were designed and created by Studio Du
         [[params.footer.links.links]]
             title = "AmmoDrop - European Vendor"
             url = "https://ammodrop.eu/?lang=en"
+            [markup]
+              [markup.goldmark]
+                [markup.goldmark.renderer]
+                  unsafe = true
