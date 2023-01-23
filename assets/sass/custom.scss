@@ -1,3 +1,26 @@
 /* This file intentionally left blank.
  * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
  */
+@media screen and (max-width: 1280px) {
+  #navPanel .link, #titleBar .toggle:before {
+    color: #888 !important;
+    font-weight: bold !important;
+    font-size: larger !important;
+  }
+}
+
+.td-page-meta--edit {
+    color: black !important;
+}
+
+/*h3:nth-child(even){
+    background-color: #888 !important;
+    padding-left: 0.4em !important;
+    color: white !important;
+}
+
+h3:nth-child(odd) {
+    background-color: #990000 !important;
+    padding-left: 0.4em !important;
+    color: black !important;
+}*/

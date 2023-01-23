@@ -10,7 +10,8 @@ copyright = "© The miniatures shown here were designed and created by Studio Du
 [params]
     description = "Pulp Weird WW2."
     show_post_dates = false
-
+    github_repo = "https://github.com/usmcgeek/usmcgeek.github.io"
+    github_branch = "main"
 
     [[params.social]]
         title = "Creative Commons"
