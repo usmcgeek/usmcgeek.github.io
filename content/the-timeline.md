@@ -8,7 +8,7 @@ image_alt: "worldmap"
 ---
 
 ### 1937
-July: Japanese forces invade mainland China. World War II starts in Asia. test
+July: Japanese forces invade mainland China. World War II starts in Asia.
 
 ### 1938
 March: A German military expedition led by Manfred Kreuzer returns from Antarctica under great secrecy. A U-boat bearing “vital cargo” is sent directly back to Germany.
